@@ -13,7 +13,8 @@ pip install keras
 
 ## Tutorials
 
-Add tutorials here
+* [Python ML Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course)
+* [First Neural Network with Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras)
 
 ## Competitions
 
@@ -27,7 +28,27 @@ Tutorials and cheat sheets for libraries and tools
 
 Tutorial on Jupyter
 
-
 #### Numpy
 
 Tutorial on Numpy
+
+#### Scipy
+
+Tutorial on Scipy
+
+#### Keras
+
+* [Setup](http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/)
+
+#### Tensorflow
+
+Tutorial on Numpy
+
+
+#### Tmux
+
+* [Wiki on Tmux](http://wiki.fast.ai/index.php/Tmux)
+
+## Resources
+
+* [Fast.ai Wiki](http://wiki.fast.ai/index.php/Main_Page)

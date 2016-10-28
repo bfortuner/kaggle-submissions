@@ -24,6 +24,12 @@ Add submissions here
 
 Tutorials and cheat sheets for libraries and tools
 
+#### Pandas
+
+* [My Cheatsheet](https://github.com/bfortuner/kaggle-submissions/blob/master/tutorials/titanic/PandasQuickstart.ipynb)
+* [Quickstart](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Plotting](http://pbpython.com/simple-graphing-pandas.html)
+
 #### Jupyter
 
 Tutorial on Jupyter
